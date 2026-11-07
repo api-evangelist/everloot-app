@@ -1,4 +1,4 @@
-# everloot-app
+# Everloot
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-everloot-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://everloot.app/
+Everloot provides a public, community‑driven database and suite of tools for the WoW: Forever game. It tracks loot windows, guild information, auction house prices, and offers talent calculators, raid builders, and farming routes. The platform aggregates data from player‑submitted addons, presenting it via an open API and MCP server under CC BY‑SA 4.0. Launched on November 4 2026, Everloot aims to give players transparent, verifiable game data.
+
+**Areas:** Gaming · WoW · Database · GuildTracker · Tools
+
+## Everloot on APIs.io
+
+Everything profiled for Everloot is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/everloot-app/](https://apis.io/providers/everloot-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Everloot API](https://apis.io/apis/everloot-app/everloot-api/) — Public API providing observed player data and game-file information for WoW: Forever.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Everloot App Openapi Overlay](https://apis.io/overlays/everloot-app/everloot-app-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Everloot API Rules](https://apis.io/rules/everloot-app/everloot-app-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Everloot App Authentication](https://apis.io/security/everloot-app/everloot-app-authentication/)
+- [Everloot App Domain Security](https://apis.io/security/everloot-app/everloot-app-domain-security/)
+- [Everloot App Vulnerability Disclosure](https://apis.io/security/everloot-app/everloot-app-vulnerability-disclosure/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Everloot App Rate Limits](https://apis.io/rate-limits/everloot-app/everloot-app-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://everloot.app/)
+- [Documentation](https://everloot.app/docs)
+- [Getting started](https://everloot.app/docs/quickstart)
+- [API reference](https://everloot.app/docs)
+- [Security](https://everloot.app/security)
+- [Terms of service](https://everloot.app/terms)
+- [Privacy policy](https://everloot.app/privacy)
+- [GitHub](https://github.com/Everloot)
+
+## API Evangelist rating
+
+**Kin Score 36.7** — thin · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 34.7 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 21.1 |
+
+**Agent readiness 14.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/everloot-app/](https://apis.io/providers/everloot-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Everloot: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/everloot-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
